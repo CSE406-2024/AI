@@ -12,7 +12,7 @@ Our core AI functionalities are structured into two key areas: training the Sona
 
  This approach ensures that the Sonar AI language model is trained on a rich and diverse dataset, equipping it with the capability to generate highly accurate, context-aware, and user-specific routines for a wide range of smart home environments, thereby delivering an unparalleled level of adaptability and personalization.
 
-## 2. Expanding Sonar to Verbal domain
+## 2. Expanding to Verbal Domain
  Expanding Sonar’s capabilities to the verbal domain involves leveraging AI speaker technology to enable users to interact naturally by expressing their current situations through voice input. This process begins with converting spoken language into text, followed by a sophisticated analysis of the user’s speech to extract key attributes such as emotion, vocal tone, and speech pace. These attributes are meticulously tagged to enrich the converted text with contextual information.
 
  The enhanced text, now imbued with emotional and tonal tags, is then processed to generate coherent, context-aware sentences. Leveraging the ChatGPT API, these sentences are refined to ensure they accurately reflect the user’s emotions and circumstances while maintaining fluency and coherence.
